@@ -1,0 +1,22 @@
+/* style CSS */
+
+.p1,
+.p2 {
+    background-color: rgb(255, 102, 204);
+    font-family: Verdana, DejaVu Sana, sans-serif;
+}
+
+.p1.p2 {
+    font-size: 24px;
+}
+
+#id1 {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#id2 {
+   background-color: #33ff99;
+   font-size: 24px;
+   font-weight: bold;
+}
